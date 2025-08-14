@@ -3,7 +3,7 @@ module.exports.config = {
   name: "dau",
   version: "1.0.0",
   hasPermssion: 0,
-  credits: "FIFA Match", 
+  credits: "Kaori Waguri", 
   description: "Tìm trận đấu FIFA nhanh",
   commandCategory: "Game",
   usages: "",
