@@ -3,7 +3,7 @@ module.exports.config = {
   name: "fifa",
   version: "1.0.0",
   hasPermssion: 0,
-  credits: "FIFA Online 4 Module",
+  credits: "Kaori Waguri",
   description: "Hệ thống game FIFA Online 4 với AI",
   commandCategory: "Game",
   usages: "[register|profile|shop|squad|match|ranking]",
