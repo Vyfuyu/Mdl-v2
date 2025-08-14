@@ -3,7 +3,7 @@ module.exports.config = {
   name: "pack",
   version: "1.0.0", 
   hasPermssion: 0,
-  credits: "FIFA Pack",
+  credits: "Kaori Waguri",
   description: "Mở pack FIFA nhanh",
   commandCategory: "Game",
   usages: "[bronze|silver|gold|premium|ultimate]",
