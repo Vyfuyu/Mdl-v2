@@ -3,7 +3,7 @@ module.exports.config = {
   name: "doihinh",
   version: "1.0.0",
   hasPermssion: 0, 
-  credits: "FIFA Squad",
+  credits: "Kaori Waguri",
   description: "Xem đội hình FIFA nhanh",
   commandCategory: "Game",
   usages: "",
